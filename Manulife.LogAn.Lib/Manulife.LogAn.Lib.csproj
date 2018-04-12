@@ -45,7 +45,7 @@
     <Compile Include="2.核心\DI\AlwaysValidFakeExtensionManager.cs" />
     <Compile Include="2.核心\DI\FileExtensionManager.cs" />
     <Compile Include="2.核心\DI\IExtensionManager.cs" />
-    <Compile Include="Override\LogAnalyzerUsingFactoryMethod.cs" />
+    <Compile Include="2.核心\Override\LogAnalyzerUsingFactoryMethod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
