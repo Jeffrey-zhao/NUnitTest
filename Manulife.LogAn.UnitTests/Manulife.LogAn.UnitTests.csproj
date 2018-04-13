@@ -51,6 +51,8 @@
     <Compile Include="1.入门\LogAnalyzerTests1.cs" />
     <Compile Include="2.核心\LogAnalyzerTests2.cs" />
     <Compile Include="1.入门\MakeAnalyzer.cs" />
+    <Compile Include="2.核心\LogAnalyzerTests4.cs" />
+    <Compile Include="2.核心\LogAnalyzerTests3.cs" />
     <Compile Include="2.核心\TestableLogAnalyzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

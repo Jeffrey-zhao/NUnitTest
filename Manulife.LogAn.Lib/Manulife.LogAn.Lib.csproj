@@ -45,9 +45,18 @@
     <Compile Include="2.核心\DI\AlwaysValidFakeExtensionManager.cs" />
     <Compile Include="2.核心\DI\FileExtensionManager.cs" />
     <Compile Include="2.核心\DI\IExtensionManager.cs" />
+    <Compile Include="2.核心\Mock\LogAnalyzer3.cs" />
+    <Compile Include="2.核心\Mock\FakeWebService.cs" />
+    <Compile Include="2.核心\Mock\IWebService.cs" />
     <Compile Include="2.核心\Override\LogAnalyzerUsingFactoryMethod.cs" />
+    <Compile Include="2.核心\StubAndMock\FakeEmailService.cs" />
+    <Compile Include="2.核心\StubAndMock\FakeWebService.cs" />
+    <Compile Include="2.核心\StubAndMock\IWebService.cs" />
+    <Compile Include="2.核心\StubAndMock\IEmailService.cs" />
+    <Compile Include="2.核心\StubAndMock\LogAnalyzer4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
